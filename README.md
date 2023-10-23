@@ -1,2 +1,7 @@
 # CS255
 System Analysis and Design
+
+##
+In the DriverPass project our client was the company DriverPass which consisted of Liam the owner and Ian the IT officer. We were tasked at helping DriverPass create design documents for an application to help DriverPass connect with students to prepare them for their driving license exam and driving tests. We started with the business requirements and then worked on the design of the system. I think I did a good job of interpreting the needs of the client and also conveying the requirements I identified in a readable manner. I do think I could have improved by including more additional information in a few spots as I went a little too simplified in my design at times.
+
+When interpreting the user's needs I started with the basics that the DriverPass employees mentioned and then worked to see what would be needed to accomplish their goals. It is important to consider the user's needs when designing because if they can't use the end product then the whole thing is kind of useless. I think my approach to designing software is mainly to try and find the important requirements for basic functionality first and then work from the basics up on what else is requested by the client. I definitely think organizing it in the business requirements document was very helpful to the organization of my thought process and would implement that in the future to analyze and design a system.
